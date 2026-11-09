@@ -1,0 +1,1161 @@
+2026.11.09 10:33:06 INFO  Started: Metals version 1.6.9 in folders '/Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job' for client Visual Studio Code 1.123.0.
+2026.11.09 10:33:06 INFO  Memory monitor started
+2026.11.09 10:33:06 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.09 10:33:06 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 09, 2026 10:33:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.11.09 10:33:12 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 10:33:12 INFO  restarted 1 presentation compiler
+2026.11.09 10:34:46 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 10:34:46 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 10:34:46 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 10:34:46 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 10:34:46 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 10:35:39 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/target/classes/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 10:35:39 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/target/classes/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 10:35:39 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/target/classes/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 10:45:24 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/target/classes/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 10:47:51 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 10:47:51 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 10:47:51 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 10:47:51 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 10:47:51 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 10:47:53 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 10:47:53 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 10:47:53 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 10:47:54 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 10:47:54 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 10:47:55 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 10:47:55 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 10:47:58 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 10:47:58 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 10:47:58 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 10:47:58 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 10:48:01 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 10:48:01 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 10:48:01 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:05:24 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:06:10 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:06:10 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:06:10 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:31:26 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:31:26 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:31:26 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:31:26 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:31:28 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:31:29 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:31:29 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:31:29 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:31:36 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:31:36 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:31:38 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:31:38 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:31:38 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:31:39 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:31:39 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:31:39 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:31:39 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:31:39 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:31:39 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:31:39 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:31:41 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:31:41 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:31:53 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:31:54 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:31:54 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:31:56 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:31:56 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:32:00 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:32:04 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:32:09 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:34:07 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:34:08 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:34:08 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:34:11 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:34:11 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:34:12 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:34:12 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:34:12 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:34:12 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:34:12 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:34:12 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:35:09 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:35:18 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:35:18 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:35:20 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:35:35 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:35:35 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:35:35 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:35:35 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:35:36 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:35:36 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:35:36 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:35:36 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:35:44 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:35:44 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:35:46 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:35:52 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:35:52 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:35:52 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:35:56 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:35:56 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:35:57 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:35:58 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:35:58 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:35:58 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:38:03 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:38:03 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:38:03 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:38:03 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:45:09 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:45:09 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:46:58 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/common/SilverJob.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:46:58 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/common/SilverJob.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:46:58 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/common/SilverJob.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:47:00 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/common/SilverJob.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:47:00 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:47:00 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:47:00 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:47:00 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:47:00 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:48:53 WARN  Not starting Scala CLI for out-of-workspace file (it can be started manually): /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:48:53 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.09 11:48:53 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:48:53 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:48:53 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:48:53 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 09, 2026 11:48:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 203
+2026.11.09 11:48:53 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 09, 2026 11:48:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.util.NoSuchElementException: BatchedFunction
+java.util.concurrent.CompletionException: java.util.NoSuchElementException: BatchedFunction
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Caused by: java.util.NoSuchElementException: BatchedFunction
+	at scala.meta.internal.metals.BatchedFunction.<init>(BatchedFunction.scala:96)
+	at scala.meta.internal.metals.MetalsLspService.<init>(MetalsLspService.scala:239)
+	at scala.meta.internal.metals.FallbackMetalsLspService.<init>(FallbackMetalsLspService.scala:64)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService$lzycompute(WorkspaceLspService.scala:242)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService(WorkspaceLspService.scala:223)
+	at scala.meta.internal.metals.WorkspaceLspService.$anonfun$didOpen$4(WorkspaceLspService.scala:477)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.WorkspaceLspService.didOpen(WorkspaceLspService.scala:477)
+	at scala.meta.metals.lsp.DelegatingScalaService.didOpen(DelegatingScalaService.scala:38)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	... 3 more
+
+2026.11.09 11:49:40 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:49:45 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:49:45 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:49:49 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:49:49 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:49:51 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:49:51 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:49:53 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:49:53 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:49:53 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:49:53 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:49:53 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:49:56 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:49:56 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:49:56 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 09, 2026 11:49:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.util.NoSuchElementException: BatchedFunction
+java.util.concurrent.CompletionException: java.util.NoSuchElementException: BatchedFunction
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Caused by: java.util.NoSuchElementException: BatchedFunction
+	at scala.meta.internal.metals.BatchedFunction.<init>(BatchedFunction.scala:96)
+	at scala.meta.internal.metals.MetalsLspService.<init>(MetalsLspService.scala:239)
+	at scala.meta.internal.metals.FallbackMetalsLspService.<init>(FallbackMetalsLspService.scala:64)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService$lzycompute(WorkspaceLspService.scala:242)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService(WorkspaceLspService.scala:223)
+	at scala.meta.internal.metals.WorkspaceLspService.$anonfun$didOpen$4(WorkspaceLspService.scala:477)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.WorkspaceLspService.didOpen(WorkspaceLspService.scala:477)
+	at scala.meta.metals.lsp.DelegatingScalaService.didOpen(DelegatingScalaService.scala:38)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	... 3 more
+
+2026.11.09 11:49:56 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:49:59 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:15 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:15 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:50:15 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:15 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:15 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:34 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:34 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala
+Nov 09, 2026 11:50:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.util.NoSuchElementException: BatchedFunction
+java.util.concurrent.CompletionException: java.util.NoSuchElementException: BatchedFunction
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Caused by: java.util.NoSuchElementException: BatchedFunction
+	at scala.meta.internal.metals.BatchedFunction.<init>(BatchedFunction.scala:96)
+	at scala.meta.internal.metals.MetalsLspService.<init>(MetalsLspService.scala:239)
+	at scala.meta.internal.metals.FallbackMetalsLspService.<init>(FallbackMetalsLspService.scala:64)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService$lzycompute(WorkspaceLspService.scala:242)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService(WorkspaceLspService.scala:223)
+	at scala.meta.internal.metals.WorkspaceLspService.$anonfun$didOpen$4(WorkspaceLspService.scala:477)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.WorkspaceLspService.didOpen(WorkspaceLspService.scala:477)
+	at scala.meta.metals.lsp.DelegatingScalaService.didOpen(DelegatingScalaService.scala:38)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	... 3 more
+
+2026.11.09 11:50:37 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:37 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:50:37 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:37 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:37 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:38 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:38 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala
+Nov 09, 2026 11:50:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.util.NoSuchElementException: BatchedFunction
+java.util.concurrent.CompletionException: java.util.NoSuchElementException: BatchedFunction
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Caused by: java.util.NoSuchElementException: BatchedFunction
+	at scala.meta.internal.metals.BatchedFunction.<init>(BatchedFunction.scala:96)
+	at scala.meta.internal.metals.MetalsLspService.<init>(MetalsLspService.scala:239)
+	at scala.meta.internal.metals.FallbackMetalsLspService.<init>(FallbackMetalsLspService.scala:64)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService$lzycompute(WorkspaceLspService.scala:242)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService(WorkspaceLspService.scala:223)
+	at scala.meta.internal.metals.WorkspaceLspService.$anonfun$didOpen$4(WorkspaceLspService.scala:477)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.WorkspaceLspService.didOpen(WorkspaceLspService.scala:477)
+	at scala.meta.metals.lsp.DelegatingScalaService.didOpen(DelegatingScalaService.scala:38)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	... 3 more
+
+2026.11.09 11:50:41 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:41 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:50:41 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:41 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:41 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:43 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:43 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala
+Nov 09, 2026 11:50:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.util.NoSuchElementException: BatchedFunction
+java.util.concurrent.CompletionException: java.util.NoSuchElementException: BatchedFunction
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Caused by: java.util.NoSuchElementException: BatchedFunction
+	at scala.meta.internal.metals.BatchedFunction.<init>(BatchedFunction.scala:96)
+	at scala.meta.internal.metals.MetalsLspService.<init>(MetalsLspService.scala:239)
+	at scala.meta.internal.metals.FallbackMetalsLspService.<init>(FallbackMetalsLspService.scala:64)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService$lzycompute(WorkspaceLspService.scala:242)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService(WorkspaceLspService.scala:223)
+	at scala.meta.internal.metals.WorkspaceLspService.$anonfun$didOpen$4(WorkspaceLspService.scala:477)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.WorkspaceLspService.didOpen(WorkspaceLspService.scala:477)
+	at scala.meta.metals.lsp.DelegatingScalaService.didOpen(DelegatingScalaService.scala:38)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	... 3 more
+
+2026.11.09 11:50:45 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:45 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:50:45 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:45 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:45 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:47 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:47 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala
+Nov 09, 2026 11:50:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.util.NoSuchElementException: BatchedFunction
+java.util.concurrent.CompletionException: java.util.NoSuchElementException: BatchedFunction
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Caused by: java.util.NoSuchElementException: BatchedFunction
+	at scala.meta.internal.metals.BatchedFunction.<init>(BatchedFunction.scala:96)
+	at scala.meta.internal.metals.MetalsLspService.<init>(MetalsLspService.scala:239)
+	at scala.meta.internal.metals.FallbackMetalsLspService.<init>(FallbackMetalsLspService.scala:64)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService$lzycompute(WorkspaceLspService.scala:242)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService(WorkspaceLspService.scala:223)
+	at scala.meta.internal.metals.WorkspaceLspService.$anonfun$didOpen$4(WorkspaceLspService.scala:477)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.WorkspaceLspService.didOpen(WorkspaceLspService.scala:477)
+	at scala.meta.metals.lsp.DelegatingScalaService.didOpen(DelegatingScalaService.scala:38)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	... 3 more
+
+2026.11.09 11:50:50 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:50 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:50:50 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:50 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:50 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:51 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:51 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala
+Nov 09, 2026 11:50:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.util.NoSuchElementException: BatchedFunction
+java.util.concurrent.CompletionException: java.util.NoSuchElementException: BatchedFunction
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Caused by: java.util.NoSuchElementException: BatchedFunction
+	at scala.meta.internal.metals.BatchedFunction.<init>(BatchedFunction.scala:96)
+	at scala.meta.internal.metals.MetalsLspService.<init>(MetalsLspService.scala:239)
+	at scala.meta.internal.metals.FallbackMetalsLspService.<init>(FallbackMetalsLspService.scala:64)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService$lzycompute(WorkspaceLspService.scala:242)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService(WorkspaceLspService.scala:223)
+	at scala.meta.internal.metals.WorkspaceLspService.$anonfun$didOpen$4(WorkspaceLspService.scala:477)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.WorkspaceLspService.didOpen(WorkspaceLspService.scala:477)
+	at scala.meta.metals.lsp.DelegatingScalaService.didOpen(DelegatingScalaService.scala:38)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	... 3 more
+
+2026.11.09 11:50:53 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:59 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:59 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:50:59 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:59 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:59 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:50:59 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:00 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:00 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala
+Nov 09, 2026 11:51:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.util.NoSuchElementException: BatchedFunction
+java.util.concurrent.CompletionException: java.util.NoSuchElementException: BatchedFunction
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Caused by: java.util.NoSuchElementException: BatchedFunction
+	at scala.meta.internal.metals.BatchedFunction.<init>(BatchedFunction.scala:96)
+	at scala.meta.internal.metals.MetalsLspService.<init>(MetalsLspService.scala:239)
+	at scala.meta.internal.metals.FallbackMetalsLspService.<init>(FallbackMetalsLspService.scala:64)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService$lzycompute(WorkspaceLspService.scala:242)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService(WorkspaceLspService.scala:223)
+	at scala.meta.internal.metals.WorkspaceLspService.$anonfun$didOpen$4(WorkspaceLspService.scala:477)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.WorkspaceLspService.didOpen(WorkspaceLspService.scala:477)
+	at scala.meta.metals.lsp.DelegatingScalaService.didOpen(DelegatingScalaService.scala:38)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	... 3 more
+
+2026.11.09 11:51:01 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:01 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:51:01 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:01 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:01 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:03 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:03 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala
+Nov 09, 2026 11:51:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.util.NoSuchElementException: BatchedFunction
+java.util.concurrent.CompletionException: java.util.NoSuchElementException: BatchedFunction
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Caused by: java.util.NoSuchElementException: BatchedFunction
+	at scala.meta.internal.metals.BatchedFunction.<init>(BatchedFunction.scala:96)
+	at scala.meta.internal.metals.MetalsLspService.<init>(MetalsLspService.scala:239)
+	at scala.meta.internal.metals.FallbackMetalsLspService.<init>(FallbackMetalsLspService.scala:64)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService$lzycompute(WorkspaceLspService.scala:242)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService(WorkspaceLspService.scala:223)
+	at scala.meta.internal.metals.WorkspaceLspService.$anonfun$didOpen$4(WorkspaceLspService.scala:477)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.WorkspaceLspService.didOpen(WorkspaceLspService.scala:477)
+	at scala.meta.metals.lsp.DelegatingScalaService.didOpen(DelegatingScalaService.scala:38)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	... 3 more
+
+2026.11.09 11:51:07 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:07 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:07 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:07 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:08 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:10 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:10 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:51:10 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:10 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:10 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:12 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:12 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:12 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:12 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:13 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:13 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:13 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:14 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:14 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:51:14 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:14 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:15 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:15 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:15 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:16 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:16 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:51:16 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 09, 2026 11:51:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.util.NoSuchElementException: BatchedFunction
+java.util.concurrent.CompletionException: java.util.NoSuchElementException: BatchedFunction
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Caused by: java.util.NoSuchElementException: BatchedFunction
+	at scala.meta.internal.metals.BatchedFunction.<init>(BatchedFunction.scala:96)
+	at scala.meta.internal.metals.MetalsLspService.<init>(MetalsLspService.scala:239)
+	at scala.meta.internal.metals.FallbackMetalsLspService.<init>(FallbackMetalsLspService.scala:64)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService$lzycompute(WorkspaceLspService.scala:242)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService(WorkspaceLspService.scala:223)
+	at scala.meta.internal.metals.WorkspaceLspService.$anonfun$didOpen$4(WorkspaceLspService.scala:477)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.WorkspaceLspService.didOpen(WorkspaceLspService.scala:477)
+	at scala.meta.metals.lsp.DelegatingScalaService.didOpen(DelegatingScalaService.scala:38)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	... 3 more
+
+2026.11.09 11:51:16 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:19 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:19 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:51:19 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:19 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:19 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:19 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:21 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:21 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:51:21 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 09, 2026 11:51:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.util.NoSuchElementException: BatchedFunction
+java.util.concurrent.CompletionException: java.util.NoSuchElementException: BatchedFunction
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Caused by: java.util.NoSuchElementException: BatchedFunction
+	at scala.meta.internal.metals.BatchedFunction.<init>(BatchedFunction.scala:96)
+	at scala.meta.internal.metals.MetalsLspService.<init>(MetalsLspService.scala:239)
+	at scala.meta.internal.metals.FallbackMetalsLspService.<init>(FallbackMetalsLspService.scala:64)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService$lzycompute(WorkspaceLspService.scala:242)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService(WorkspaceLspService.scala:223)
+	at scala.meta.internal.metals.WorkspaceLspService.$anonfun$didOpen$4(WorkspaceLspService.scala:477)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.WorkspaceLspService.didOpen(WorkspaceLspService.scala:477)
+	at scala.meta.metals.lsp.DelegatingScalaService.didOpen(DelegatingScalaService.scala:38)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	... 3 more
+
+2026.11.09 11:51:21 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:24 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:24 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:24 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:24 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:26 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:26 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:51:26 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:26 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:26 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:26 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:27 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:27 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:28 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:28 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:51:28 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:28 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:29 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:29 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:51:29 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 09, 2026 11:51:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.util.NoSuchElementException: BatchedFunction
+java.util.concurrent.CompletionException: java.util.NoSuchElementException: BatchedFunction
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Caused by: java.util.NoSuchElementException: BatchedFunction
+	at scala.meta.internal.metals.BatchedFunction.<init>(BatchedFunction.scala:96)
+	at scala.meta.internal.metals.MetalsLspService.<init>(MetalsLspService.scala:239)
+	at scala.meta.internal.metals.FallbackMetalsLspService.<init>(FallbackMetalsLspService.scala:64)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService$lzycompute(WorkspaceLspService.scala:242)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService(WorkspaceLspService.scala:223)
+	at scala.meta.internal.metals.WorkspaceLspService.$anonfun$didOpen$4(WorkspaceLspService.scala:477)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.WorkspaceLspService.didOpen(WorkspaceLspService.scala:477)
+	at scala.meta.metals.lsp.DelegatingScalaService.didOpen(DelegatingScalaService.scala:38)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	... 3 more
+
+2026.11.09 11:51:29 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:31 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:31 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:31 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:33 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:33 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:39 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:39 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:39 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:39 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:43 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:43 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:43 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:44 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:49 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:49 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:49 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:51 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:51 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:51:51 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:51 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:51 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:52 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:53 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:52 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:53 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:53 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:54 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:51:54 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:54 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:54 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:54 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:54 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:55 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:55 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:56 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:51:56 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:57 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:57 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:56 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:58 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:51:58 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:58 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:58 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:51:58 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:51:58 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 09, 2026 11:51:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.util.NoSuchElementException: BatchedFunction
+java.util.concurrent.CompletionException: java.util.NoSuchElementException: BatchedFunction
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Caused by: java.util.NoSuchElementException: BatchedFunction
+	at scala.meta.internal.metals.BatchedFunction.<init>(BatchedFunction.scala:96)
+	at scala.meta.internal.metals.MetalsLspService.<init>(MetalsLspService.scala:239)
+	at scala.meta.internal.metals.FallbackMetalsLspService.<init>(FallbackMetalsLspService.scala:64)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService$lzycompute(WorkspaceLspService.scala:242)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService(WorkspaceLspService.scala:223)
+	at scala.meta.internal.metals.WorkspaceLspService.$anonfun$didOpen$4(WorkspaceLspService.scala:477)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.WorkspaceLspService.didOpen(WorkspaceLspService.scala:477)
+	at scala.meta.metals.lsp.DelegatingScalaService.didOpen(DelegatingScalaService.scala:38)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	... 3 more
+
+2026.11.09 11:51:58 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:00 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:00 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:52:00 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:00 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:00 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:01 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:01 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:52:01 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 09, 2026 11:52:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.util.NoSuchElementException: BatchedFunction
+java.util.concurrent.CompletionException: java.util.NoSuchElementException: BatchedFunction
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Caused by: java.util.NoSuchElementException: BatchedFunction
+	at scala.meta.internal.metals.BatchedFunction.<init>(BatchedFunction.scala:96)
+	at scala.meta.internal.metals.MetalsLspService.<init>(MetalsLspService.scala:239)
+	at scala.meta.internal.metals.FallbackMetalsLspService.<init>(FallbackMetalsLspService.scala:64)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService$lzycompute(WorkspaceLspService.scala:242)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService(WorkspaceLspService.scala:223)
+	at scala.meta.internal.metals.WorkspaceLspService.$anonfun$didOpen$4(WorkspaceLspService.scala:477)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.WorkspaceLspService.didOpen(WorkspaceLspService.scala:477)
+	at scala.meta.metals.lsp.DelegatingScalaService.didOpen(DelegatingScalaService.scala:38)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	... 3 more
+
+2026.11.09 11:52:01 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:03 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:03 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:52:03 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:03 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:03 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:04 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:04 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:52:04 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 09, 2026 11:52:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.util.NoSuchElementException: BatchedFunction
+java.util.concurrent.CompletionException: java.util.NoSuchElementException: BatchedFunction
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Caused by: java.util.NoSuchElementException: BatchedFunction
+	at scala.meta.internal.metals.BatchedFunction.<init>(BatchedFunction.scala:96)
+	at scala.meta.internal.metals.MetalsLspService.<init>(MetalsLspService.scala:239)
+	at scala.meta.internal.metals.FallbackMetalsLspService.<init>(FallbackMetalsLspService.scala:64)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService$lzycompute(WorkspaceLspService.scala:242)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService(WorkspaceLspService.scala:223)
+	at scala.meta.internal.metals.WorkspaceLspService.$anonfun$didOpen$4(WorkspaceLspService.scala:477)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.WorkspaceLspService.didOpen(WorkspaceLspService.scala:477)
+	at scala.meta.metals.lsp.DelegatingScalaService.didOpen(DelegatingScalaService.scala:38)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	... 3 more
+
+2026.11.09 11:52:04 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:06 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:06 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:52:06 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:06 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:06 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:08 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:08 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:52:08 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 09, 2026 11:52:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.util.NoSuchElementException: BatchedFunction
+java.util.concurrent.CompletionException: java.util.NoSuchElementException: BatchedFunction
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Caused by: java.util.NoSuchElementException: BatchedFunction
+	at scala.meta.internal.metals.BatchedFunction.<init>(BatchedFunction.scala:96)
+	at scala.meta.internal.metals.MetalsLspService.<init>(MetalsLspService.scala:239)
+	at scala.meta.internal.metals.FallbackMetalsLspService.<init>(FallbackMetalsLspService.scala:64)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService$lzycompute(WorkspaceLspService.scala:242)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService(WorkspaceLspService.scala:223)
+	at scala.meta.internal.metals.WorkspaceLspService.$anonfun$didOpen$4(WorkspaceLspService.scala:477)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.WorkspaceLspService.didOpen(WorkspaceLspService.scala:477)
+	at scala.meta.metals.lsp.DelegatingScalaService.didOpen(DelegatingScalaService.scala:38)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	... 3 more
+
+2026.11.09 11:52:08 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:11 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:11 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:52:11 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:11 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:11 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:13 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:13 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:52:13 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 09, 2026 11:52:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.util.NoSuchElementException: BatchedFunction
+java.util.concurrent.CompletionException: java.util.NoSuchElementException: BatchedFunction
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Caused by: java.util.NoSuchElementException: BatchedFunction
+	at scala.meta.internal.metals.BatchedFunction.<init>(BatchedFunction.scala:96)
+	at scala.meta.internal.metals.MetalsLspService.<init>(MetalsLspService.scala:239)
+	at scala.meta.internal.metals.FallbackMetalsLspService.<init>(FallbackMetalsLspService.scala:64)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService$lzycompute(WorkspaceLspService.scala:242)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService(WorkspaceLspService.scala:223)
+	at scala.meta.internal.metals.WorkspaceLspService.$anonfun$didOpen$4(WorkspaceLspService.scala:477)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.WorkspaceLspService.didOpen(WorkspaceLspService.scala:477)
+	at scala.meta.metals.lsp.DelegatingScalaService.didOpen(DelegatingScalaService.scala:38)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	... 3 more
+
+2026.11.09 11:52:13 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:17 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:18 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:18 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:52:18 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:18 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:18 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:20 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:20 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:52:20 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 09, 2026 11:52:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.util.NoSuchElementException: BatchedFunction
+java.util.concurrent.CompletionException: java.util.NoSuchElementException: BatchedFunction
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Caused by: java.util.NoSuchElementException: BatchedFunction
+	at scala.meta.internal.metals.BatchedFunction.<init>(BatchedFunction.scala:96)
+	at scala.meta.internal.metals.MetalsLspService.<init>(MetalsLspService.scala:239)
+	at scala.meta.internal.metals.FallbackMetalsLspService.<init>(FallbackMetalsLspService.scala:64)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService$lzycompute(WorkspaceLspService.scala:242)
+	at scala.meta.internal.metals.WorkspaceLspService.fallbackService(WorkspaceLspService.scala:223)
+	at scala.meta.internal.metals.WorkspaceLspService.$anonfun$didOpen$4(WorkspaceLspService.scala:477)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.WorkspaceLspService.didOpen(WorkspaceLspService.scala:477)
+	at scala.meta.metals.lsp.DelegatingScalaService.didOpen(DelegatingScalaService.scala:38)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	... 3 more
+
+2026.11.09 11:52:20 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:26 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:27 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:27 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:27 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:27 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:27 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:27 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:28 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job 2/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:29 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:29 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:52:29 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:29 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:29 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:29 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:32 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:32 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:33 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:33 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:33 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:33 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:33 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:33 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:34 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:34 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:35 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:52:35 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:39 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:39 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:41 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:41 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:41 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:42 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:52:42 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:45 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:45 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:45 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:55 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:56 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:52:58 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:03 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:03 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:03 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:03 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:03 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:05 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:05 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:06 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:08 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:08 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:08 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:08 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:08 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:08 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:08 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:08 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:09 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:09 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:09 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:09 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:12 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:12 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:12 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:12 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:12 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:14 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:21 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:21 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:21 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:22 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:53:22 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:26 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:26 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:27 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:27 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:28 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:29 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:28 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:29 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:30 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:30 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:30 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:30 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:30 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:30 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:31 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:31 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:31 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:53:31 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:32 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:32 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:32 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:33 WARN  no build target for: /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala
+2026.11.09 11:53:33 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:33 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:33 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:33 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:49 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:53:52 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:54:05 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:54:05 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:54:05 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:54:05 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:54:10 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/common/AppConfig.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:54:10 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/common/AppConfig.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:54:10 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/common/AppConfig.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:54:10 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/common/AppConfig.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:54:11 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/common/AppConfig.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:54:15 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/common/AppConfig.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 11:54:36 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/common/AppConfig.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 09, 2026 12:05:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.11.09 12:06:26 INFO  no build target found for /Users/adamhenchiri/Documents/idia5/NoSql/spark/TP/tp_spark-job/src/main/scala/fr/valeuriad/data/common/AppConfig.scala. Using presentation compiler with project's scala-library version: 3.3.8
