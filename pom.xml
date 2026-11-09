@@ -7,7 +7,7 @@
     <name>${project.artifactId}</name>
 
     <properties>
-        <java.version>1.11</java.version>
+        <java.version>11</java.version>
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
 
@@ -112,13 +112,13 @@
             <groupId>com.typesafe</groupId>
             <artifactId>config</artifactId>
             <version>1.4.2</version>
-        </dependency>
+        </dependency>        
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
             <version>42.7.4</version>
         </dependency>
-    </dependencies>
+        </dependencies>
 
     <build>
         <sourceDirectory>src/main/scala</sourceDirectory>
@@ -131,7 +131,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass></mainClass>
+                            <mainClass>fr.valeuriad.data.Main</mainClass>
                         </manifest>
                     </archive>
                     <encoding>UTF-8</encoding>
@@ -181,7 +181,26 @@
                     <systemPropertyVariables>
                         <SCALATEST>run</SCALATEST>
                     </systemPropertyVariables>
+                    <!-- Les tests ScalaTest sont lancés par scalatest-maven-plugin ci-dessous -->
+                    <skipTests>true</skipTests>
                 </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.scalatest</groupId>
+                <artifactId>scalatest-maven-plugin</artifactId>
+                <version>2.2.0</version>
+                <configuration>
+                    <reportsDirectory>${project.build.directory}/surefire-reports</reportsDirectory>
+                    <junitxml>.</junitxml>
+                </configuration>
+                <executions>
+                    <execution>
+                        <id>test</id>
+                        <goals>
+                            <goal>test</goal>
+                        </goals>
+                    </execution>
+                </executions>
             </plugin>
         </plugins>
     </build>
