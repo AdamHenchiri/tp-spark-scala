@@ -109,16 +109,16 @@
             <version>2.13.4</version>
         </dependency>
         <dependency>
+            <groupId>com.oracle.database.jdbc</groupId>
+            <artifactId>ojdbc11</artifactId>
+            <version>23.5.0.24.07</version>
+        </dependency>
+        <dependency>
             <groupId>com.typesafe</groupId>
             <artifactId>config</artifactId>
             <version>1.4.2</version>
-        </dependency>        
-        <dependency>
-            <groupId>org.postgresql</groupId>
-            <artifactId>postgresql</artifactId>
-            <version>42.7.4</version>
         </dependency>
-        </dependencies>
+    </dependencies>
 
     <build>
         <sourceDirectory>src/main/scala</sourceDirectory>

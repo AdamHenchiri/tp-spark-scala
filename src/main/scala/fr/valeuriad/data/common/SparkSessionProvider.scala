@@ -10,5 +10,8 @@ object SparkSessionProvider {
       .master(master)
       .config("spark.driver.bindAddress", "127.0.0.1")
       .config("spark.driver.host", "127.0.0.1")
+      .config("spark.sql.parquet.outputTimestampType", "TIMESTAMP_MICROS")
+      .config("spark.sql.parquet.datetimeRebaseModeInWrite", "CORRECTED")
+      .config("spark.sql.parquet.int96RebaseModeInWrite", "CORRECTED")
       .getOrCreate()
 }
